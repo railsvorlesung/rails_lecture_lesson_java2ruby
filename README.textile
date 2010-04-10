@@ -14,10 +14,8 @@ Klonen Sie das Übungs-Repository, lösen Sie das Problem und checken die Lösun
 Ein erfolgreicher Aufruf sieht wie folgt aus:
 
 pre. spec binary_tree_spec.rb 
- .
- 
+ . 
  Finished in 0.00633 seconds
- 
  1 example, 0 failures
 
 Dabei steht der „.“ für einen erfolgreich ausgeführten Test.
