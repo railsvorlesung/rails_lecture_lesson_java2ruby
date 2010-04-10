@@ -4,6 +4,8 @@ Gegeben ist eine sehr einfache Java-Implementierung eines binären Baumes.
 
 Erstellen Sie eine funktional äquivalente Ruby-Klasse mit dem Dateinamen „binary-tree.rb“ und dem Klassenamen „BinaryTree“. Halten Sie sich dabei an die Ruby-Namenskonventionen.
 
-Schwerpunkt der Übung ist die komparative Gegenüberstellung von Java- und Ruby-Syntax. Sie sollen dabei Ähnlichkeiten und Unterschiede erkennen und sich an die Ruby-Namenskonventionen gewöhnen.
+Schwerpunkt der Übung ist die komparative Gegenüberstellung von Java- und Ruby-Syntax. Sie sollen dabei Ähnlichkeiten und Unterschiede erkennen und sich an die "Ruby-Namenskonventionen":http://www.softiesonrails.com/2007/10/18/ruby-101-naming-conventions gewöhnen.
 
-Testen Sie Ihre Implementierung unter Verwendung der hier aufgeführten RSpec-Spezifikation.
+Testen Sie Ihre Implementierung unter Verwendung der im spec-Ordner zu findenden RSpec-Spezifikation.
+
+Klonen Sie das Übungs-Repository, lösen Sie das Problem und checken die Lösung wieder ein.
