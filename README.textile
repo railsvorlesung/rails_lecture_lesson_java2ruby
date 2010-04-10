@@ -9,3 +9,17 @@ Schwerpunkt der Übung ist die komparative Gegenüberstellung von Java- und Ruby
 Testen Sie Ihre Implementierung unter Verwendung der im spec-Ordner zu findenden RSpec-Spezifikation.
 
 Klonen Sie das Übungs-Repository, lösen Sie das Problem und checken die Lösung wieder ein.
+
+
+Ein erfolgreicher Aufruf sieht wie folgt aus:
+
+ spec binary_tree_spec.rb 
+ .
+ 
+ Finished in 0.00633 seconds
+ 
+ 1 example, 0 failures
+
+Dabei steht der „.“ für einen erfolgreich ausgeführten Test.
+
+Mehr Informationen zum Thema RSpec finden Sie unter http://www.rspec.info.
