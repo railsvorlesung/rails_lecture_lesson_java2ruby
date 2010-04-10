@@ -20,4 +20,4 @@ pre. spec binary_tree_spec.rb
 
 Dabei steht der „.“ für einen erfolgreich ausgeführten Test.
 
-Mehr Informationen zum Thema RSpec finden Sie unter http://www.rspec.info.
+Mehr Informationen zum Thema RSpec finden Sie unter "http://www.rspec.info":http://www.rspec.info.
